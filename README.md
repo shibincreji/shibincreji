@@ -5,7 +5,8 @@
 - 👨‍💻 All of my projects are available at: https://shibincreji.me
 - 📫 How to reach me: shibincreji24@gmail.com
 
-![Meta Frontend Developer](https://www.credly.com/badges/25cd0499-8e5f-4219-a908-4ab5319847ee/public_url)
+[![Credly Badge](https://www.credly.com/badges/25cd0499-8e5f-4219-a908-4ab5319847ee/public_url)](https://www.credly.com/badges/25cd0499-8e5f-4219-a908-4ab5319847ee/public_url)
+
 
 
 
